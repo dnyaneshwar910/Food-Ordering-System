@@ -15,7 +15,6 @@ A comprehensive **Food Ordering System** built using **Spring Boot** for the bac
 - [Database Schema](#database-schema)
 - [Screenshots](#screenshots)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Project Overview
 
