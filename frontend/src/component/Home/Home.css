@@ -1,0 +1,17 @@
+.banner{
+    background-image: url("https://media.istockphoto.com/id/1316145932/photo/table-top-view-of-spicy-food.jpg?s=612x612&w=0&k=20&c=eaKRSIAoRGHMibSfahMyQS6iFADyVy1pnPdy1O5rZ98=");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+    
+
+}
+
+.cover{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 90vh;
+    width: 100%;
+    opacity: 0.8;
+}
