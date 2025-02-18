@@ -128,8 +128,3 @@ Make sure you have the following installed:
 - **Node.js** and **npm** for React development
 - **Stripe account** for payment gateway integration
 
-### Running the Backend
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dnyaneshwar910/Food-Ordering-System.git
